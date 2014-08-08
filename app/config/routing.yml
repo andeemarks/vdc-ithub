@@ -1,0 +1,5 @@
+andy_it_hub:
+    resource: "@AndyITHubBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
